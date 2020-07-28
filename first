@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head><title>Forms</title>
+	<style>
+	body {
+		background: rgb(33, 117, 51);
+		color: white;
+		margin: 100;
+		padding: 100;
+		font-family: Arial, Helvetica, sans-serif;
+	}
+	h1{
+		background : black;
+		color : rgb(36, 48, 156) ; 
+	}
+	
+	h2{
+		color:rgb(66, 117, 161) ; 
+		
+	}         
+	div{
+	   text-align: center;
+	}
+	</style>
+</head>
+<body>
+	<div>	
+			<video height="200" width="300" controls="">
+				<source src="tunak.mp4" type="video/mp4">
+			</video> <br>
+	</div>
+</body>
+</html>
